@@ -28,7 +28,7 @@ If you're not already familiar with `conda`, you may want to familiarize yoursel
 To create a new virtual env for this seminar, run the following commands from your conda terminal.
 
 1. Create a new virtual env named 'ml_bias_seminar' with the latest version of Python 3:
- 	- `conda create -n xai_ac python=3.10`
+ 	- `conda create -n xai_ac python=3.12`
 2. Activate the new virtual env:
 	- `conda activate xai_ac`
 3. Install the required Python packages (The requirements.txt will be updated to include all necessary packages for the notebook assignments)
