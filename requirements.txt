@@ -15,7 +15,7 @@ lime
 torch
 torchvision
 lime
-alibi
+zennit
 grad-cam
 zennit-crp
 librosa
